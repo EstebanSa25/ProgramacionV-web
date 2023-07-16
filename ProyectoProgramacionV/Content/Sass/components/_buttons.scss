@@ -1,0 +1,6 @@
+﻿
+@each $key,$value in $page-colors {
+    .button-#{$key} {
+        background: $value;
+    }
+}

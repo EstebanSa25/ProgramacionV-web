@@ -1,0 +1,16 @@
+﻿
+//lista(mapa en sass) de colores de la pagina web que sera usado para botones,headers,texto,etc
+$page-colors: (
+    primary:#184848,
+    secondary:#006060,
+    tertiary:#007878,
+    quaternary:#a8c030,
+    extra:#f0f0d8
+);
+//montserrat para texto
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+$font-tex:'Montserrat', sans-serif;
+
+//ubuntu para Titulos
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+$font-title: 'Ubuntu', sans-serif;
